@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Moobye say</title>
-  
+  <subtitle>多做点事情，少研究些清谈</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http:///blog.moobye.cn/"/>
+  <link href="http://blog.moobye.cn/"/>
   <updated>2016-08-11T06:39:08.896Z</updated>
-  <id>http:///blog.moobye.cn/</id>
+  <id>http://blog.moobye.cn/</id>
   
   <author>
     <name>Moobye</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http:///blog.moobye.cn/2016/08/11/hello-world/"/>
-    <id>http:///blog.moobye.cn/2016/08/11/hello-world/</id>
+    <link href="http://blog.moobye.cn/2016/08/11/hello-world/"/>
+    <id>http://blog.moobye.cn/2016/08/11/hello-world/</id>
     <published>2016-08-11T06:27:10.143Z</published>
     <updated>2016-08-11T06:39:08.896Z</updated>
     
