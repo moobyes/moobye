@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http:///blog.moobye.cn/"/>
   <updated>2016-08-11T06:39:08.896Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http:///blog.moobye.cn/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/08/11/hello-world/"/>
-    <id>http://yoursite.com/2016/08/11/hello-world/</id>
+    <link href="http:///blog.moobye.cn/2016/08/11/hello-world/"/>
+    <id>http:///blog.moobye.cn/2016/08/11/hello-world/</id>
     <published>2016-08-11T06:27:10.143Z</published>
     <updated>2016-08-11T06:39:08.896Z</updated>
     
