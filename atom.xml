@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.moobye.cn/"/>
-  <updated>2017-01-16T01:32:55.123Z</updated>
+  <updated>2017-01-16T03:42:56.535Z</updated>
   <id>http://blog.moobye.cn/</id>
   
   <author>
@@ -16,44 +16,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://blog.moobye.cn/2016/09/01/%E5%89%8D%E7%AB%AFcss%E7%BC%96%E5%86%99%E8%A7%84%E8%8C%83/"/>
-    <id>http://blog.moobye.cn/2016/09/01/前端css编写规范/</id>
-    <published>2016-09-01T03:12:57.611Z</published>
-    <updated>2017-01-16T01:32:55.123Z</updated>
-    
-    <content type="html"><![CDATA[<hr>
-<p>title: 前端css编写规范<br>date:  2016-08-11 17:05:55</p>
-<h2 id="tags-前端-css"><a href="#tags-前端-css" class="headerlink" title="tags: [前端,css]"></a>tags: [前端,css]</h2><blockquote>
-<p>所有命名都以连字符 ‘-’来连接；</p>
-</blockquote>
-<p>##第一，盒子规范  </p>
-<p>ps. 任何模块首先看成一个盒子，用头部(hedader),内容(content)以及尾部（footer）。</p>
-<p>盒子命名： 模块名+wrap，eg: moudle-wrap  </p>
-<p>头部命名： 模块名+hd， eg：moudle-hd  </p>
-<p>内容命名： 模块名+bd， eg：moudle-bd  </p>
-<p>尾部命名： 模块名+fd， eg：moudle-fd； </p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;hr&gt;
-&lt;p&gt;title: 前端css编写规范&lt;br&gt;date:  2016-08-11 17:05:55&lt;/p&gt;
-&lt;h2 id=&quot;tags-前端-css&quot;&gt;&lt;a href=&quot;#tags-前端-css&quot; class=&quot;headerlink&quot; title=&quot;tags: [前端,c
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>新的世界</title>
     <link href="http://blog.moobye.cn/2016/08/11/%E6%96%B0%E7%9A%84%E4%B8%96%E7%95%8C/"/>
     <id>http://blog.moobye.cn/2016/08/11/新的世界/</id>
     <published>2016-08-11T09:05:55.000Z</published>
-    <updated>2017-01-16T01:31:58.900Z</updated>
+    <updated>2017-01-16T03:42:56.535Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>牛顿说，如果我比别人看的远，那是因为我站在巨人的肩膀上。</p>
+</blockquote>
+<p>欢迎来到新的世界。</p>
+<h1 id="什么事巨人的肩膀？"><a href="#什么事巨人的肩膀？" class="headerlink" title="###什么事巨人的肩膀？"></a>###什么事巨人的肩膀？</h1><a id="more"></a>
+<p><img src="/2016/08/11/新的世界/service_3.png" alt=""></p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;牛顿说，如果我比别人看的远，那是因为我站在巨人的肩膀上。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;欢迎来到新的世界。&lt;/p&gt;
+&lt;h1 id=&quot;什么事巨人的肩膀？&quot;&gt;&lt;a href=&quot;#什么事巨人的肩膀？&quot; class=&quot;headerlink&quot; title=&quot;###什么事巨人的肩膀？&quot;&gt;&lt;/a&gt;###什么事巨人的肩膀？&lt;/h1&gt;
     
     </summary>
     

@@ -32,7 +32,7 @@
 	<header id="header" class="inner">
 		<a href="/" class="profilepic">
 			
-			<img lazy-src="0" class="js-avatar">
+			<img src="http://www.zhoubowen.com/blog/static/images/mb.png" class="js-avatar" style="opacity: 1;">
 			
 		</a>
 
@@ -56,11 +56,6 @@
 							<div class="ribbon"></div>
 						</div>
 						
-						<div class="icon-wrap icon-link hide" data-idx="2">
-							<div class="loopback_l"></div>
-							<div class="loopback_r"></div>
-						</div>
-						
 						
 						<div class="icon-wrap icon-me hide" data-idx="3">
 							<div class="user"></div>
@@ -75,8 +70,6 @@
 					<ul class="tips-inner">
 						<li>Menu</li>
 						<li>Tags</li>
-						
-						<li>Links</li>
 						
 						
 						<li>Über</li>
@@ -96,7 +89,11 @@
 				        
 							<li><a href="/archives">所有文章</a></li>
 				        
-							<li><a href="/tags/随笔">随笔</a></li>
+							<li><a href="/tags/前端/">前端</a></li>
+				        
+							<li><a href="/tags/教程/">教程</a></li>
+				        
+							<li><a href="/tags/随笔/">随笔</a></li>
 				        
 						</ul>
 					</nav>
@@ -104,12 +101,6 @@
 						<div class="social">
 							
 								<a class="github" target="_blank" href="https://github.com/moobyes" title="github">github</a>
-					        
-								<a class="weibo" target="_blank" href="#" title="weibo">weibo</a>
-					        
-								<a class="rss" target="_blank" href="#" title="rss">rss</a>
-					        
-								<a class="zhihu" target="_blank" href="#" title="zhihu">zhihu</a>
 					        
 						</div>
 					</nav>
@@ -124,30 +115,12 @@
 				
 				
 				
-				<section class="switch-part switch-part3">
-					<div id="js-friends">
-					
-			          <a target="_blank" class="main-nav-link switch-friends-link" href="http://localhost:4000/">奥巴马的博客</a>
-			        
-			          <a target="_blank" class="main-nav-link switch-friends-link" href="http://localhost:4000/">卡卡的美丽传说</a>
-			        
-			          <a target="_blank" class="main-nav-link switch-friends-link" href="http://localhost:4000/">本泽马的博客</a>
-			        
-			          <a target="_blank" class="main-nav-link switch-friends-link" href="http://localhost:4000/">吉格斯的博客</a>
-			        
-			          <a target="_blank" class="main-nav-link switch-friends-link" href="http://localhost:4000/">习大大大不同</a>
-			        
-			          <a target="_blank" class="main-nav-link switch-friends-link" href="http://localhost:4000/">托蒂的博客</a>
-			        
-			        </div>
-				</section>
-				
 
 				
 				
-				<section class="switch-part switch-part4">
+				<section class="switch-part switch-part3">
 				
-					<div id="js-aboutme">我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…</div>
+					<div id="js-aboutme">在互联网里混的老人，玩前端的新人，靠谱的设计师，让人放心的项目经理，有格调的产品经理…</div>
 				</section>
 				
 			</div>
@@ -166,7 +139,7 @@
 		<header id="header" class="inner">
 			<div class="profilepic">
 				
-					<img lazy-src="0" class="js-avatar">
+					<img lazy-src="nullhttp://www.zhoubowen.com/blog/static/images/mb.png" class="js-avatar">
 				
 			</div>
 			<hgroup>
@@ -182,7 +155,11 @@
 		        
 					<li><a href="/archives">所有文章</a></li>
 		        
-					<li><a href="/tags/随笔">随笔</a></li>
+					<li><a href="/tags/前端/">前端</a></li>
+		        
+					<li><a href="/tags/教程/">教程</a></li>
+		        
+					<li><a href="/tags/随笔/">随笔</a></li>
 		        
 		        <div class="clearfix"></div>
 				</ul>
@@ -192,12 +169,6 @@
 					
 						<a class="github" target="_blank" href="https://github.com/moobyes" title="github">github</a>
 			        
-						<a class="weibo" target="_blank" href="#" title="weibo">weibo</a>
-			        
-						<a class="rss" target="_blank" href="#" title="rss">rss</a>
-			        
-						<a class="zhihu" target="_blank" href="#" title="zhihu">zhihu</a>
-			        
 				</div>
 			</nav>
 		</header>				
@@ -205,58 +176,6 @@
 </nav>
 
       <div class="body-wrap">
-  
-    <article id="post-前端css编写规范" class="article article-type-post" itemscope itemprop="blogPost">
-  
-    <div class="article-meta">
-      <a href="/2016/09/01/前端css编写规范/" class="article-date">
-  	<time datetime="2016-09-01T03:12:57.611Z" itemprop="datePublished">2016-09-01</time>
-</a>
-    </div>
-  
-  <div class="article-inner">
-    
-      <input type="hidden" class="isFancy" />
-    
-    
-    <div class="article-entry" itemprop="articleBody">
-      
-        <hr>
-<p>title: 前端css编写规范<br>date:  2016-08-11 17:05:55</p>
-<h2 id="tags-前端-css"><a href="#tags-前端-css" class="headerlink" title="tags: [前端,css]"></a>tags: [前端,css]</h2><blockquote>
-<p>所有命名都以连字符 ‘-’来连接；</p>
-</blockquote>
-<p>##第一，盒子规范  </p>
-<p>ps. 任何模块首先看成一个盒子，用头部(hedader),内容(content)以及尾部（footer）。</p>
-<p>盒子命名： 模块名+wrap，eg: moudle-wrap  </p>
-<p>头部命名： 模块名+hd， eg：moudle-hd  </p>
-<p>内容命名： 模块名+bd， eg：moudle-bd  </p>
-<p>尾部命名： 模块名+fd， eg：moudle-fd； </p>
-
-      
-    </div>
-    
-    <div class="article-info article-info-index">
-      
-      
-      
-
-      
-      <div class="clearfix"></div>
-    </div>
-    
-  </div>
-  
-</article>
-
-
-
-
-
-
-
-
-
   
     <article id="post-新的世界" class="article article-type-post" itemscope itemprop="blogPost">
   
@@ -284,7 +203,11 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        
+        <blockquote>
+<p>牛顿说，如果我比别人看的远，那是因为我站在巨人的肩膀上。</p>
+</blockquote>
+<p>欢迎来到新的世界。</p>
+<h1 id="什么事巨人的肩膀？"><a href="#什么事巨人的肩膀？" class="headerlink" title="###什么事巨人的肩膀？"></a>###什么事巨人的肩膀？</h1>
       
     </div>
     
@@ -297,6 +220,10 @@
 
       
 
+      
+        <p class="article-more-link">
+          <a  href="/2016/08/11/新的世界/#more">more >></a>
+        </p>
       
       <div class="clearfix"></div>
     </div>
