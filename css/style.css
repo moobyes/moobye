@@ -10,7 +10,7 @@ body{
 }
 body{
   background:#323232;
-  font-size:19px
+  font-size:16px
 }
 .ide-wrap{
   margin-left: 12px;
@@ -26,4 +26,11 @@ body{
 }
 .imp-color{
   color: var(--gre—color);
+}
+.mb-title{
+  padding:24px;
+}
+.mb-t{
+  font-size:24px;
+  color: var(--white—color);
 }
