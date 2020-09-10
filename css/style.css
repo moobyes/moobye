@@ -1,0 +1,29 @@
+:root{--white—color: #fff;}
+body{
+  --white—color: #fff;
+  --red—color: #f10909;
+  --gre—color: #7fd81f;
+}
+*{
+  margin:0;
+  padding:0;
+}
+body{
+  background:#323232;
+  font-size:19px
+}
+.ide-wrap{
+  margin-left: 12px;
+  padding-top: 12px;
+  padding-left: 22px;
+  border-left: 4px solid #616060;
+}
+.block-color {
+  color: var(--white—color);
+}
+.con-color{
+  color: var(--red—color);
+}
+.imp-color{
+  color: var(--gre—color);
+}
