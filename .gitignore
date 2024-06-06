@@ -1,0 +1,17 @@
+assets/.DS_Store
+.DS_Store
+.jekyll-cache
+.sass-cache
+.jekyll-metadata
+.asset-cache
+.bundle
+.byebug_history
+.byebug_save
+.byebug_breakpoints
+.byebug_history.txt
+.byebug_save.txt
+.byebug_breakpoints.txt
+.byebug_history.html
+.byebug_save.html
+.byebug_breakpoints.html
+_site/
