@@ -6,7 +6,7 @@
 
 	<div class="col-sm-10">
 	 <span class="post-date">
-    {{ page.date | date: "%Y-%m-%d" }}
+    {{site.author.name}}, {{ page.date | date: "%Y-%m-%d" }}
 	 </span>
 	  <div class="article_body">
 	  {{ content }}
@@ -92,20 +92,20 @@
 
     <div class="clearfix"></div>
 
-		<ul class="pager">
-		  {% if page.previous %}
-		  <li class="previous"><a href="{{ site.BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; 上一篇</a></li>
-		  {% else %}
-		  <li class="previous disabled"><a>&larr; 上一篇</a></li>
-		  {% endif %}
-		  {% if page.next %}
-		  <li class="next"><a href="{{ site.BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">下一篇 &rarr;</a></li>
-		  {% else %}
-			<li class="next disabled"><a>下一篇 &rarr;</a>
-		  {% endif %}
-		</ul>
 
 		<hr>
+		<ul class="article_page">
+		  {% if page.previous %}
+		  <li class="previous"><a href="{{ site.BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">上一篇</a></li>
+		  {% else %}
+		  <li class="previous disabled"><a>上一篇</a></li>
+		  {% endif %}
+		  {% if page.next %}
+		  <li class="next"><a href="{{ site.BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">下一篇</a></li>
+		  {% else %}
+			<li class="next disabled"><a>下一篇</a>
+		  {% endif %}
+		</ul>
 	</div>
 	
 	<div class="col-sm-2 sidebar-2">

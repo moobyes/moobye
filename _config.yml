@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: dbyll
 google_analytics: dbyll
-title: Moobye
+title: 木白的博客
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Moobye
+      title: 木白的博客
 
 description: Stylish Jekyll Theme
 author:

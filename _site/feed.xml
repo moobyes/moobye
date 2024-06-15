@@ -1,10 +1,198 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Moobye</title>
+		<title>木白的博客</title>
 		<description>Stylish Jekyll Theme</description>
 		<link>/</link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>求职说明书</title>
+				<description>&lt;h2 id=&quot;基础信息&quot;&gt;基础信息&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;姓名：&lt;/strong&gt;周柏文      &lt;strong&gt;出生年月：&lt;/strong&gt;1983年10月    &lt;strong&gt;学历：&lt;/strong&gt;本科         &lt;strong&gt;手机/微信：&lt;/strong&gt;13818766955， &lt;strong&gt;邮箱：&lt;/strong&gt;moobye@126.com&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;求职意向：&lt;/strong&gt;前端工程师，前端架构师 ，前端负责人&lt;/p&gt;
+
+&lt;h2 id=&quot;个人介绍&quot;&gt;个人介绍&lt;/h2&gt;
+
+&lt;h3 id=&quot;10多年的互联网从业者所学略杂基本上基于业务而学&quot;&gt;10多年的互联网从业者，所学略杂，基本上基于业务而学。&lt;/h3&gt;
+
+&lt;h3 id=&quot;涉及技能&quot;&gt;涉及技能：&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;基于Js、html、css的React,Vue,Svelt,Angular,以及Jquery，Chrome插件，threejs；另外还有市面上常用的Nextjs，Umijs等，对AntD, Vant, ElementUI，NavieUI，tailWindcss, windiCss, unocss等有较多开发经验，&lt;/li&gt;
+  &lt;li&gt;基于百度amis做过低码平台和自定义组件二开；&lt;/li&gt;
+  &lt;li&gt;基于TypeScript开发工具以及业务开发；&lt;/li&gt;
+  &lt;li&gt;基于Nodejs的工程化，webpack，vite，rollup，glup，Eslint，babel等&lt;/li&gt;
+  &lt;li&gt;后端：Nodejs，express，koa2，hapijs，nestjs，mySql，&lt;/li&gt;
+  &lt;li&gt;客户端：RN，Weex， Flutter（dart），鸿蒙（ArkTs）&lt;/li&gt;
+  &lt;li&gt;小程序：微信原生，支付宝原生，Taro，Uniapp，Morjs以及周边的UI库&lt;/li&gt;
+  &lt;li&gt;5年以上团队管理经验，带过从1到20左右的团队，有项目管理经验；&lt;/li&gt;
+  &lt;li&gt;其他技能：画图（PS，AI），交互设计（AXD，Sketch），多媒体/影视（Flash，Pr，Authorware等）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;所涉及的行业&quot;&gt;所涉及的行业：&lt;/h3&gt;
+&lt;p&gt;电商、互联网金融（toB端，toC端、房地产销售、酒店管理、门户网、企业官网&lt;/p&gt;
+
+&lt;h3 id=&quot;涉及系统和应用&quot;&gt;涉及系统和应用：&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;内容管理+移动社区（类似京东的逛）&lt;/li&gt;
+  &lt;li&gt;金融交易系统（B+C两端），可以理解为金融行业的电商&lt;/li&gt;
+  &lt;li&gt;纯B端管理系统&lt;/li&gt;
+  &lt;li&gt;低码系统（toB &amp;amp; toC）&lt;/li&gt;
+  &lt;li&gt;网站：官网+门户网+移动网站&lt;/li&gt;
+  &lt;li&gt;虚拟饰品电商平台，后管管理&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;项目总结&quot;&gt;项目总结&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;整理最近几年所做的一些项目&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;近两年&quot;&gt;近两年&lt;/h4&gt;
+
+&lt;p&gt;基于webpack5+react+redux toolkt 搭建基础的react工程，并以此为基础搭建了一套移动端使用的多页spa工程，一套B端后管工程；后根据业务需求，又搭建了一套TS+Vue3+vite+pina的工程。并将这些基础工程集中的一个公司内部的CLI工具里。&lt;/p&gt;
+
+&lt;p&gt;根据团队编码规范以及业界统一认知，实现了一套可以用React以及vue的Eslint配置；&lt;/p&gt;
+
+&lt;p&gt;实现了一套自己的Utils工具，包括基于xtermjs的终端，基于xxx的code编辑器等&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;除此之外，没有特别有意思的项目。基本上是独立完成了公司所有B端系统，包括集所有B端系统一体的工作台（React作基座+qiankun），子系统包括，devops系列 – 内部应用管理和发布系统，以及APP发布管理系统，基于百度arms引擎开发了低码系统；服务端（nodejs），基于开源代码构建的csgo机器人系统，完成初步管理以及完善服务&lt;/p&gt;
+
+&lt;p&gt;C端也主要是完成基础的业务开发，有特色的就是商品价格走势，以及基于Hybrid模式下实现的多webview通信；后续针对Hybrid整理一套性能优化方案，并实施。&lt;/p&gt;
+
+&lt;h3 id=&quot;再往后几年&quot;&gt;再往后几年&lt;/h3&gt;
+
+&lt;p&gt;业务向：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;公司主营的微信小程序，以及相关的推广小程；主要以原生实现为主&lt;/li&gt;
+  &lt;li&gt;酒店业主使用管理酒店业务的Hybrid App，基于weex；&lt;/li&gt;
+  &lt;li&gt;酒店前台使用PMS管理系统，基于vue2；&lt;/li&gt;
+  &lt;li&gt;酒店签约系统（B端），&lt;/li&gt;
+  &lt;li&gt;酒店业主使用的chrome插件若干，如订单迁移，数据采集等；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;技术向：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;带领团队接手BFF改建，由java 转 nodejs服务，构建表单生成接口功能，并孵化下面项目；&lt;/li&gt;
+  &lt;li&gt;基于nodejs+react完成表单生成系统基础以及&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;工作经历&quot;&gt;工作经历&lt;/h2&gt;
+
+&lt;h3 id=&quot;20227--至今--悠悠有品--前端工程师&quot;&gt;2022.7 – 至今  悠悠有品 – 前端工程师&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;公司简介：&lt;/strong&gt; 公司主要运营一个基于steam的游戏CSGO里饰品的买卖平台。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;工作职责：&lt;/strong&gt; 前期负责公司所有web相关工作。包括基建，BC两端业务开发；后专注于B端所有系统和业务。&lt;/p&gt;
+
+&lt;h3 id=&quot;20187--20227--oyo--前端技术专家&quot;&gt;2018.7 – 2022.7  OYO – 前端技术专家&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;公司简介：&lt;/strong&gt; OYO，鸥游（上海）酒店管理有限公司，全球最大单体酒店管理公司。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;角色：&lt;/strong&gt;业务线负责人，前端负责人&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;工作职责：&lt;/strong&gt;  负责B端两条产品线 评需求（PRD），拆任务（task），分配任务，跟进进度 确定技术选型，技术方案，开发（编码），读代码，组织code review 组织技术培训，确定项目代码优化方案，涉及公司所有产品线项目，包括B端，C端以及营销。主管过基于Node的BFF系统，基于weex的app开发，以及公司所有小程序的开发管理。&lt;/p&gt;
+
+&lt;h3 id=&quot;20176--20186-上海米么--资深前端开发工程师&quot;&gt;2017.6 – 2018.6 上海米么 – &lt;strong&gt;资深前端开发工程师&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;公司简介：&lt;/strong&gt; 又成米么金服，医美界的互联网金融公司&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;角色：&lt;/strong&gt;上海分部前端负责人&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;*工作职责：*&lt;/em&gt;&lt;/strong&gt; 负责部门产品的前端开发工作， 包括B端产品，C端混合开发（RN），CDK，公用组件或插件的开发等 负责前端需求的评审，前端任务的分配和跟盯。&lt;/p&gt;
+
+&lt;h3 id=&quot;201510--20176上海北斗投资管理有限公司--资深前端开发工程师&quot;&gt;2015.10 – 2017.6：上海北斗投资管理有限公司 – 资深前端开发工程师&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;公司简介：&lt;/strong&gt; 互联网财富管理公司。主营信托，基金，私募等产品，&lt;strong&gt;产品：&lt;/strong&gt; 理财师APP，私募等交易网站，微信小程序&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;角色：&lt;/strong&gt; 前端负责人&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;工作职责：&lt;/strong&gt; 主管前端，负责所有项目前端开发，包括不限于app（自由理财师），以及wap（自由理财师和360财富），自由理财师官网，理顾金融官网，北斗投资官网等； 搭建前端目录结构，js封装改造，scss项目结构，前端页面性能优化方案设置实施； 兼任产品经理，主持自由理财师产品线（网站，APP，wap）以及360财富wap； 兼带项目，组建并带领团队，实行敏捷开发进行项目开发； 作为业务需求方，产品方和开发项目组之间的沟通桥梁；&lt;/p&gt;
+
+&lt;h3 id=&quot;201105--201510新致软件---前端开发工程师&quot;&gt;2011.05 – 2015.10：新致软件 –  前端开发工程师&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;公司简介：&lt;/strong&gt; 保险金融行业，软件行业等解决方案提供者&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;角色：&lt;/strong&gt; 项目负责人&lt;/p&gt;
+
+&lt;p&gt;外包于大地保险 ，完成官网设计制作（JQ+HTML+CSS），主要，并参与网站SEO优化；&lt;/p&gt;
+
+&lt;p&gt;外包于陆金所B2B部门（3年有余），从事前端开发工作，兼任项目负责人。&lt;/p&gt;
+
+&lt;p&gt;前期在西双版纳交易所，完成所有B端系统制作；后期在B端部门，制作Lfex微信公众号（私募部分），Lfex平台（现已并入lu.com）&lt;a href=&quot;http://www.lfex.com/&quot;&gt;陆金所交易市场官网&lt;/a&gt; &lt;a href=&quot;http://www.pinganbaoli.com/&quot;&gt;平安保理官网&lt;/a&gt; Lfex信托交易平台，以及理财人小程序制作等；&lt;/p&gt;
+
+&lt;h3 id=&quot;201101--20114今题网--前端工程师&quot;&gt;2011.01 – 2011.4：今题网 – 前端工程师&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;公司简介：&lt;/strong&gt; 新兴门户网站，来源于美洲&lt;/p&gt;
+
+&lt;p&gt;工作职责：1. 设计网页，营销活动页，广告等；2.将设计稿实现为web页，移动端页面等。&lt;/p&gt;
+
+&lt;h3 id=&quot;200905--201012-上海林肯电气有限公司--网页设计制作&quot;&gt;2009.05 – 2010.12： 上海林肯电气有限公司 – 网页设计制作&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;工作职责：&lt;/strong&gt; 设计制作公司管官网、产品宣传广告，以及网络广告。维护并优化公司网站（SEO）。&lt;/p&gt;
+
+&lt;h3 id=&quot;200807--20095上海玺腾企业咨询有限公司---网页设计制作&quot;&gt;2008.07 – 2009.5：上海玺腾企业咨询有限公司  – 网页设计制作&lt;/h3&gt;
+
+&lt;p&gt;工作职责：设计制作网站，以及网络广告。维护并优化公司网站（SEO）&lt;/p&gt;
+
+&lt;h3 id=&quot;200707--20087上海奥诺信息技术有限公司---网页设计制作&quot;&gt;2007.07 – 2008.7：上海奥诺信息技术有限公司  – 网页设计制作&lt;/h3&gt;
+
+&lt;p&gt;工作职责：公司广告设计，网站设计和制作&lt;/p&gt;
+
+&lt;h3 id=&quot;200607--20077-上海易境房地产咨询有限公司--网页设计制作&quot;&gt;2006.07 – 2007.7： 上海易境房地产咨询有限公司 – 网页设计制作&lt;/h3&gt;
+
+&lt;p&gt;工作职责：界面设计制作，VI设计，以及网站制作等。  &lt;/p&gt;
+</description>
+				<pubDate>Tue, 11 Jun 2024 00:00:00 +0800</pubDate>
+				<link>/personal/2024/06/11/resume_moobye.html</link>
+				<guid isPermaLink="true">/personal/2024/06/11/resume_moobye.html</guid>
+			</item>
+		
+			<item>
+				<title>web性能之prefetch和preload</title>
+				<description>&lt;p&gt;前言&lt;/p&gt;
+
+&lt;p&gt;Web 性能–MDN文档地址：&lt;a href=&quot;https://developer.mozilla.org/zh-CN/docs/Web/Performance&quot; title=&quot;web性能&quot;&gt;传送门&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;prefetch，中文名叫链接预取，比较拗口，其实可以叫链接预加载。具体概念见：&lt;a href=&quot;https://developer.mozilla.org/zh-CN/docs/Glossary/Prefetch&quot;&gt;prefetch&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;preload, 是标签 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;link&amp;gt;&lt;/code&gt; 的一个属性，一般在html的head里。具体概念见:  &lt;a href=&quot;https://developer.mozilla.org/zh-CN/docs/Web/HTML/Attributes/rel/preload&quot;&gt;preload&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;这两个都有助于优化 TTI、FCP ( First Content Paint )。&lt;/p&gt;
+
+&lt;p&gt;我们通过具体例子来看看它们是怎么优化web性能的。&lt;/p&gt;
+
+&lt;h3 id=&quot;prefetch&quot;&gt;prefetch&lt;/h3&gt;
+
+&lt;p&gt;prefetch的使用如下：&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;prefetch&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;as=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;script&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;link&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;rel=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;prefetch&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;as=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;style&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;a.css&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;href表示需要预加载的资源路径&lt;/li&gt;
+  &lt;li&gt;as属性指定预加载资源的类型， 有document、style、script、images&lt;/li&gt;
+  &lt;li&gt;rel后面跟 &lt;strong&gt;prefetch&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;在webpack里，import资源的时候，做如下配置即可&lt;/p&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;import&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;cm&quot;&gt;/*webpackPrefetch: true */&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;a.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;但我们在工程里使用的时候，可能不会这么直接使用，一般都是在webpack或者vite里配置，使其在打包的过程中自动添加上。&lt;/p&gt;
+</description>
+				<pubDate>Fri, 07 Jun 2024 00:00:00 +0800</pubDate>
+				<link>/fontend/2024/06/07/web%E6%80%A7%E8%83%BD%E4%B9%8Bprefetch%E5%92%8Cpreload.html</link>
+				<guid isPermaLink="true">/fontend/2024/06/07/web%E6%80%A7%E8%83%BD%E4%B9%8Bprefetch%E5%92%8Cpreload.html</guid>
+			</item>
 		
 			<item>
 				<title>前端技术方案模版（参考）</title>
